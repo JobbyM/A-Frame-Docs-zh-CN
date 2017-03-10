@@ -13,4 +13,18 @@
     * Defining Properties with the Schema
     * Using Property Data from a Lifecycle Handler
     * Handling Property Updates
-    * Handling    
+    * Handling Component Removal
+    * Allowing Multiple Instances of a Component
+* Example: box Component
+    * Schema and API
+    * Creating and the Box Mesh
+    * Removing the Box Mesh
+* Example: follow Component
+    * Schema and API
+    * Creaing a Helper Vector
+    * Defining a Behavior With the .tick() Handler
+* Learing Through Components in Ecosystem
+* Publishing a Component    
+
+    
+    

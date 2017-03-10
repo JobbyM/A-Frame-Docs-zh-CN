@@ -4,3 +4,13 @@
 
 
 ## Table of Contents
+
+* Example: hello-world Component
+    * Registering the Coomponent with AFRAME.registerComponent
+    * Using the Component from HTML
+    * Using the Component from JS
+* Example: log Component
+    * Defining Properties with the Schema
+    * Using Property Data from a Lifecycle Handler
+    * Handling Property Updates
+    * Handling    

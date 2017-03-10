@@ -6,4 +6,4 @@
 
 ## GUIDES
 
-* [Writing a Component]()
+* [Writing a Component](writing-a-component.md)
